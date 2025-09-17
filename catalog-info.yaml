@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Rules_KYNI
+  annotations:
+    github.com/project-slug: mstohnii/Rules_KYNI
+spec:
+  type: other
+  lifecycle: unknown
